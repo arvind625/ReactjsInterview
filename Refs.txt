@@ -1,0 +1,4 @@
+1.  What is Ref in  React?
+Ans. Ref is reference to DOM node 
+It is used by parent component to access DOM of child component elements like
+input Node.
